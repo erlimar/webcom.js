@@ -1,0 +1,27 @@
+{
+  "name": "webcom.js",
+  "version": "0.1.0",
+  "description": "Web Components with JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlimar/webcom.js.git"
+  },
+  "keywords": [
+    "e5r",
+    "web",
+    "component",
+    "javascript",
+    "html5",
+    "web-component",
+    "webcomponent"
+  ],
+  "author": "Erlimar Silva Campos <erlimar@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/erlimar/webcom.js/issues"
+  },
+  "homepage": "https://github.com/erlimar/webcom.js#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
